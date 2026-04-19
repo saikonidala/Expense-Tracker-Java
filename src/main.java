@@ -17,25 +17,18 @@ public class main {
             int choice = sc.nextInt();
 
             switch (choice) {
-
                 case 1:
-                    // Thread for adding expense
                     service.addExpense();
                     break;
-
                 case 2:
                     service.viewExpenses();
                     break;
-
                 case 3:
-                    // Thread for report
                     service.generateReport();
                     break;
-
                 case 4:
                     System.out.println("Exiting...");
                     System.exit(0);
-
                 default:
                     System.out.println("Invalid choice!");
             }
