@@ -33,10 +33,6 @@ Table: `expenses`
 3. Add MySQL Connector JAR
 4. Run `Main.java`
 
-## 📸 Output
-
-(Add screenshots here)
-
 ## 👨‍💻 Author
 
 Penchala Sai Konidhala
